@@ -1,2 +1,0 @@
-# Table
-Table for homework
